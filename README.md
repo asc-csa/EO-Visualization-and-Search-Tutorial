@@ -22,7 +22,7 @@
     </a>
 </p>
 
-- [En Français](#Visualisation-et-la-Recherche-d'Images-OT-Tutoriel)
+- [En Français](#visualisation-et-la-recherche-dimages-ot-tutoriel)
 - [In English](#EO-Visualization-and-Search-Tutorial)
 
 # Visualisation-et-la-Recherche-d'Images-OT-Tutoriel
