@@ -1,0 +1,5 @@
+py-eodms-rapi==1.5.2
+ipyleaflet==0.17.2
+ipython==8.7.0
+ipywidgets==7.7.0
+pandas==1.5.2
