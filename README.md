@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="[https://www.asc-csa.gc.ca/eng/satellites/radarsat/](https://www.asc-csa.gc.ca/eng/satellites/radarsat/)">
+    <a href="https://www.asc-csa.gc.ca/eng/satellites/radarsat/">
         <img alt="Image du RADARSAT-1 | Image of RADARSAT-1" src="https://www.asc-csa.gc.ca/images/recherche/tiles/radarsat_1_hr.jpg" height="300">
         </a>
 </p>
@@ -11,10 +11,10 @@
     <a href="#watchers">
         <img alt="Spectateurs sur Github | GitHub watchers" src="https://img.shields.io/github/watchers/asc-csa/EO-Visualization-and-Search-Tutorial">
     </a>
-    <a href="https://github.com/asc-csa/OSIRIS-REx-Tutorial/commits/main">
+    <a href="https://github.com/asc-csa/EO-Visualization-and-Search-Tutorial/commits/main">
         <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/EO-Visualization-and-Search-Tutorial">
     </a>
-    <a href="https://github.com/asc-csa/OSIRIS-REx-Tutorial/graphs/contributors">
+    <a href="https://github.com/asc-csa/EO-Visualization-and-Search-Tutorial/graphs/contributors">
         <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/EO-Visualization-and-Search-Tutorial">
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=csa_asc">
