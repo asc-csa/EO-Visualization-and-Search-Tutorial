@@ -41,6 +41,9 @@ Par conséquent, ce tutoriel vise à faire découvrir aux lecteurs ces vastes do
 
 ## Démarrage rapide
 
+#### Remarque: 
+Si après les étapes ci-dessous vous ne parvenez pas à afficher les widgets associés ou la carte ipyleaflet, il peut être nécessaire d'exécuter et/ou d'installer jupyter notebook dans le même noyau qui possède les paquets requis. 
+
 1.	Configurez un environnement virtuel ou un environnement conda avec la version suivante de python (si vous utilisez conda, remplacez le pip install ci-dessous avec conda) 
 ```
 python = 3.11
@@ -66,6 +69,9 @@ Therefore, this tutorial will look to engage readers with this vast data through
 
 
 ## Quick Start
+
+#### Note:
+If after the below steps you are unable to display either the associated widgets or ipyleaflet map, it may be required to run and/or install jupyter notebook into the same kernel that has the required packages. 
 
 1.	Setup a virtual environment or conda environment with the following version of python (if using conda replace the below pip install with conda) 
 ```
