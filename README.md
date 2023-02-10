@@ -63,7 +63,7 @@ The RADARSAT Constellation Mission (RCM) was the next generation of the RADARSAT
 
 The search and distribution of these images is provided by the Earth Observation Data Management System (EODMS) managed by Natural Resources Canada (NRCan).<br>
 
-The available data through EODMS is vast, with RCM expected to take approximately 250,000 images per year, and RADARSAT-1 capturing over 710,000 publically available images over its lifetime.<br>
+The available data through EODMS is vast, with RCM expected to take approximately 250,000 images per year, and RADARSAT-1 capturing over 710,000 publicly available images over its lifetime.<br>
 
 Therefore, this tutorial will look to engage readers with this vast data through the use of EODMS through its accompanying REST API to search and display satellite imagery from RARDARSAT-1 and RCM on an interactive map.
 
