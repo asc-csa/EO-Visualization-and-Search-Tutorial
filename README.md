@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.asc-csa.gc.ca/eng/satellites/radarsat/">
-        <img alt="Image du RADARSAT-1 | Image of RADARSAT-1" src="https://www.asc-csa.gc.ca/images/recherche/tiles/6_hr.jpg" height="300">
+        <img alt="Image du RADARSAT-1 | Image of RADARSAT-1" src="radarsat1.jpg" height="300">
     </a>
     <br> Crédit d'image | Image credit: <a href="https://www.asc-csa.gc.ca/eng/satellites/radarsat/">ASC-CSA</a>
 </p>
